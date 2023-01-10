@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...solving real world problems by creating insightful and production worthy machine learning and deep learning predictive  models
 - 🌱 I’m currently learning ...and understanding nlp
 - 💞️ I’m looking to collaborate on ...
-- having  proficient experience in java,python, golang, react.js, javascript.
+- having  proficient experience in java,python, GO, react.js, javascript.
 1. data modelling
 2.eploratory data analysis
 3.feature engineering,

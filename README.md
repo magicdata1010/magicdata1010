@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...solving real world problems by creating insightful and production worthy machine learning and deep learning predictive  models
 - 🌱 I’m currently learning ...and understanding nlp
 - 💞️ I’m looking to collaborate on ...
+- having  proficient experience in java,python, golang, react.js, javascript.
 1. data modelling
 2.eploratory data analysis
 3.feature engineering,
@@ -19,7 +20,7 @@
 15. linux and shell scripting
 
 e and 
-- 📫 How to reach me ... 
+- 📫 How to reach me ...  my twitter username is -  @benzene_c60 
 
 <!---
 magicdata1010/magicdata1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
